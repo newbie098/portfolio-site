@@ -112,10 +112,15 @@ nav {
 .hero-sub {
   font-size: 1.05rem;
   color: var(--text-secondary);
-  max-width: 440px;
+  max-width: 500px;
   margin: 0 auto;
   line-height: 1.75;
   font-weight: 400;
+}
+
+.hero-sub strong {
+  color: var(--text-primary);
+  font-weight: 600;
 }
 
 /* ── Projects ────────────────────────────── */
@@ -194,6 +199,14 @@ nav {
   color: var(--text-secondary);
   line-height: 1.75;
   flex: 1;
+}
+
+.card-insight {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
 }
 
 .card-link {
