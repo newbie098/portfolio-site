@@ -209,6 +209,24 @@ nav {
   border-top: 1px solid var(--border);
 }
 
+.card-build {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.65;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border);
+}
+
+.card-build-label {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-right: 8px;
+}
+
 .card-link {
   display: inline-flex;
   align-items: center;
