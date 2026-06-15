@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-label="Fruit slicer icon">
+
+  <!-- Upper half of the fruit, lifted and tilted left -->
+  <path d="M9 25
+           C9 16 16 9 25 9
+           C28 9 31 10 33 11
+           L18 26
+           C15 26 11 26 9 25Z"
+        fill="#FFE0C8" stroke="#C8603A" stroke-width="1.6" stroke-linejoin="round"/>
+
+  <!-- Lower half of the fruit, dropped and tilted right -->
+  <path d="M39 23
+           C39 32 32 39 23 39
+           C20 39 17 38 15 37
+           L30 22
+           C33 22 37 22 39 23Z"
+        fill="#FFE0C8" stroke="#C8603A" stroke-width="1.6" stroke-linejoin="round"/>
+
+  <!-- Leaf on top half -->
+  <path d="M22 9 C23 6 26 5 28 6 C27 8 25 10 22 9Z"
+        fill="#FFE0C8" stroke="#C8603A" stroke-width="1.4" stroke-linejoin="round"/>
+
+  <!-- Slice mark on upper half -->
+  <path d="M14 22 C17 21 21 21 24 22"
+        stroke="#C8603A" stroke-width="1.1" stroke-linecap="round" fill="none" opacity="0.55"/>
+
+  <!-- Slice mark on lower half -->
+  <path d="M24 26 C27 27 31 27 34 26"
+        stroke="#C8603A" stroke-width="1.1" stroke-linecap="round" fill="none" opacity="0.55"/>
+
+  <!-- Swoosh/blade trail across the cut -->
+  <path d="M6 32 C16 24 32 16 42 14"
+        stroke="#C8603A" stroke-width="1.4" stroke-linecap="round" fill="none" opacity="0.65"/>
+
+</svg>
